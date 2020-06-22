@@ -1,8 +1,12 @@
 # bankapp
 
-Ranjit Singh
+Ranjit Singh  C0772787 
 
-Code Coverage
+Rishika Sood- C0775077
+
+Prakriti Arora-C0770231
+
+Manpreet kaur- C0777008
 
 
 
